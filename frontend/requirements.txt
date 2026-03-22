@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+python-dotenv
+openai-whisper
+scipy
+
+# Backend deps (needed because frontend imports the agent directly)
+# Install from backend/requirements.txt first, then this file

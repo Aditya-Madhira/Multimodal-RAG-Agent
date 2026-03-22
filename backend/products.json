@@ -1,0 +1,35 @@
+[
+  {
+    "product_id": "prod_001",
+    "name": "PlayStation 5 Console",
+    "description": "Sony PlayStation 5 gaming console with ultra-high speed SSD, ray tracing support, and 4K gaming capabilities. Includes DualSense wireless controller with haptic feedback and adaptive triggers. Black and white dual-tone design: curved white side panels with glossy black central strip, disc drive slot, iconic next-gen look.",
+    "price": 499.99,
+    "category": "gaming",
+    "brand": "Sony",
+    "color": "white, black",
+    "design": "curved white panels, black center, dual-tone",
+    "image_path": "ps5.jpg"
+  },
+  {
+    "product_id": "prod_002",
+    "name": "Nintendo Switch Console",
+    "description": "Nintendo Switch hybrid gaming console that transforms to suit your situation. Play at home on your TV or on the go in handheld mode. Features a vibrant 6.2-inch touchscreen and detachable Joy-Con controllers. Often available in red and blue Joy-Cons, or black, or special edition colors.",
+    "price": 299.99,
+    "category": "gaming",
+    "brand": "Nintendo",
+    "color": "red, blue, black, various",
+    "design": "portable handheld, detachable controllers, tablet form",
+    "image_path": "switch.webp"
+  },
+  {
+    "product_id": "prod_003",
+    "name": "Xbox Series X Console",
+    "description": "Microsoft Xbox Series X next-generation gaming console with 12 teraflops of processing power, 4K gaming at 60fps, and up to 120fps. Quick resume, backward compatibility. Matte black rectangular tower design, minimalist box shape with green accent.",
+    "price": 499.99,
+    "category": "gaming",
+    "brand": "Microsoft",
+    "color": "black",
+    "design": "black tower, rectangular, minimalist",
+    "image_path": "xbox.png"
+  }
+]
